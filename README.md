@@ -10,7 +10,7 @@ The dataset has been evaluated and determined that it provides sufficient inform
 
 
 ## Installation
-[Code](https://github.com/usamara/Data-Exploration-Clustering-on-ALS-patient-data/blob/main/Installation.ipynb)
+[Code](https://github.com/usamara/Predicting-of-Diabetes-and-Prediabetes-Given-Various-Health-and-Lifestyle-Factors/blob/main/Installation.ipynb)
 
 ## Data File
 [Data File](https://github.com/usamara/Data-Exploration-Clustering-on-ALS-patient-data/blob/main/als_data.csv)

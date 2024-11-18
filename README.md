@@ -13,7 +13,7 @@ The dataset has been evaluated and determined that it provides sufficient inform
 [Code](https://github.com/usamara/Predicting-of-Diabetes-and-Prediabetes-Given-Various-Health-and-Lifestyle-Factors/blob/main/Installation.ipynb)
 
 ## Data File
-[Data File](https://github.com/usamara/Data-Exploration-Clustering-on-ALS-patient-data/blob/main/als_data.csv)
+[Data File](https://github.com/usamara/Predicting-of-Diabetes-and-Prediabetes-Given-Various-Health-and-Lifestyle-Factors/blob/main/diabetes_012_health_indicators_BRFSS2015.csv)
 
 ## Code & Graph
 [Code & Graph](https://github.com/usamara/Data-Exploration-Clustering-on-ALS-patient-data/blob/main/Data%20Exploration%20%26%20Clustering%20on%20ALS%20patient%20data.ipynb)
